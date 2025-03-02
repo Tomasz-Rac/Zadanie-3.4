@@ -7,3 +7,5 @@ for nazwa, (wartosc) in zakupy.items():
     nazwa_capitalized=nazwa.capitalize()
     wartosc_capitalized=tuple(wartosc.capitalize() for wartosc in wartosc)
     print(f"Idę do {nazwa_capitalized}, kupiuję tu następujące rzeczy:{wartosc_capitalized}")
+
+#Okej, zaczynam to oragniać
